@@ -1,11 +1,11 @@
 {
-    "name": "sitio_web_cimadde",
-    "short_name": "sitio_web_cimadde",
+    "name": "web_cimadde",
+    "short_name": "web_cimadde",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Sitio web oficial de CIMADDE.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
