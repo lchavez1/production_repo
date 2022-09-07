@@ -54889,7 +54889,7 @@ if(b.b<=1157)return s.Dv(a)
 else return s.Du(a)},
 $S:80}
 A.a4p.prototype={
-$0(){return A.a4F("+524291170436","Hola")},
+$0(){return A.a4F("+524291170436","Escribenos tu mensaje aqui ...")},
 $S:0}
 A.a4W.prototype={
 $1(a){return!1},
